@@ -1,7 +1,2 @@
-bb
 public void ()
-cc
-dd
-ee
-ff
-gg
+test1
